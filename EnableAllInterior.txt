@@ -1,0 +1,100 @@
+1. LifeInvader offices - Y - DNO
+2. Tequi-la-la - Y - DNO
+3. Sandy Shores sheriff department - N
+4. Paleto Bay sheriff department - N
+5. Lazlow's stadium - N
+6. Cluckin Bell factory - N
+7. Bahamas Mamas West nightclub - N
+8. Comedy club- N
+9. The O'Neil farmhouse - N
+10. The "Humane Labs" - N
+11. FIB building bottom floors - N
+12. FIB building floor 49- N
+13. FIB building burnt out floors 47 - 53 - N
+14. Hospital - N
+15. Epsilon storage room - N
+16. Lester's sweatshop - Y - DNO
+17. Jewellery store - N
+18. Building under construction beside jewellery store - N
+19. Lester's house - Y - DNO
+20. Franklin's aunt's house - Y - DNO
+21. Janitor's apartment - N
+22. Foundry- Y - DNO
+23. Recycling plant - N
+24. Meat packing facility - N
+25. Simeon's dealership - Y - DNO
+26. Torture building - N
+27. Morgue - Y
+28. Madrazo's ranch - Y - DNO
+29. Floyd's house - N
+30. Devin Weston's chop shop - Y - DNO
+31. Omega's lab - N
+32. Paleto Bay bank - Y - DNO
+33. Union Depository - Y
+34. Therapist's office - Y
+35. Motel room - N
+36. High-end GTA Online apartment - N
+37. Mid-end GTA Online apartment - N
+38. Low-end GTA Online house - N
+39. DLC High-end GTA Online apartment - N
+40. Yacht from GTA Online heists - Y
+41. Aircraft Carrier - Y
+42. IAA building office - Y
+43. Cinema - N
+44. Solomon's office - N
+45. Chumash beach house - N
+46. Benny's Garage - N
+47. GTA Online Penthouse - N
+48. GTA Online Stilt House 1- N
+49. GTA Online Stilt House 2 - N
+50. High-end GTA Online garage - N
+51. Mid-end GTA Online garage - N
+52. Low-end GTA Online garage - N
+53. Police mugshot chamber - N
+55. Small warehouse - Y
+56. Medium warehouse - Y
+57. Large warehouse - Y
+58. The Lost MC clubhouse - N
+59. One-storey clubhouse - Y
+60. Two-storey clubhouse - Y
+61. Meth lab - Y
+62. Counterfeit money factory- Y
+63. Cocaine lab - Y
+64. Weed growhouse - Y
+65. Document forgery office - Y
+66. Bunker - Y
+67. Facility - Y
+68. Hanger - Y
+69. Missile Silo - Y
+70. Submarine - Y
+71. Nightclub Garage - Y
+72. Moc - Y
+73. Avenger - Y
+74. Terrobyte - Y
+75. North Yankton  - Y
+76. Arcadius Tower  - N
+77. MazeBank Tower  - Y
+78. Lombok Tower - N
+79. MazeBank West Tower - N
+80. Executive Mod Shop - N
+81. Executive Garages - Y
+82. Nightclub - Y
+83. Arena - Y
+84. Arena Workshop -  Y
+85. Arena Vip - Y
+86. Casino - Y
+87. Casino Garage - Y
+88. Casino Parking - Y
+89. Casino Penthouse -Y?N
+90. Casino Heist Arcade - Y
+91. Casino Heist Loading Bay - Y 
+92. Casino Heist Hotel - Y 
+93. Casino Heist Tunnel - Y 
+94. Casino Heist Vault - Y 
+95. Arena Garage - Y
+96. Server Farm  - Y 
+97. IAA Facility  - Y 
+
+LOAD MP MAP ON MODS RELOAD - Y!
+Add Markers - N
+add Teleports - N
